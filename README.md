@@ -1,3 +1,5 @@
+<img src="public/equitytrace-logo.png" alt="EquityTrace logo" width="120" />
+
 # EquityTrace 📊
 
 **The portfolio-aware AI copilot for tokenized US stocks (rToken) powered by Generative UI.**
