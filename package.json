@@ -6,8 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint",
-    "test": "node --experimental-strip-types --test test/*.test.ts"
+    "lint": "eslint"
   },
   "dependencies": {
     "@ai-sdk/mcp": "^2.0.60",
